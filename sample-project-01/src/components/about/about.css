@@ -1,0 +1,13 @@
+.about{
+    text-align: center;
+    color: antiquewhite;
+
+}
+.about p{
+    font-size: 35px;
+}
+span{
+    color: orangered;
+    font-size: 40px;
+    font-weight: bold;
+}

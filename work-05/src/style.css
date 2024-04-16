@@ -1,0 +1,7 @@
+.normal {
+    transition: 0.5s;
+}
+
+.life {
+    transform: scale(1.5);
+}
